@@ -1,4 +1,6 @@
-![App Screenshot](.github/cover.png)
+<h1 align="center">
+    <img alt="ignitelab" title="ignitelab" src="./.github/Home.png" />
+</h1>
 
 # Ignite Lab React.JS (Edição 02)
 
